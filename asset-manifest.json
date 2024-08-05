@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.b3868d23.css",
+    "main.js": "/weather-app/static/js/main.e4505112.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/weather-app/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/new_moon.png": "/weather-app/static/media/new_moon.b39bed02459b5f28a844.png",
+    "index.html": "/weather-app/index.html",
+    "main.b3868d23.css.map": "/weather-app/static/css/main.b3868d23.css.map",
+    "main.e4505112.js.map": "/weather-app/static/js/main.e4505112.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/weather-app/static/js/453.0ccb7fb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3868d23.css",
+    "static/js/main.e4505112.js"
+  ]
+}
